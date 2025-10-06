@@ -71,7 +71,7 @@ and my reflection on each of them.
  - **Task: **  I was tasked with reading though the documentation for Professional Networking and complete the quiz , the purpose of professional networking
    was to teach us how to build a professional relationship with other professionals. 
  - **Action:** I read through the documentation , to ensure I understood the purpose of Professional Networking and to be able to complete the quiz.
- - **Result:** The results of the professsional networking quiz was 100%.
+ - **Result:** The results of the professional networking quiz was 100%.
 
 
 ## Workplace Etiquette
@@ -81,7 +81,7 @@ and my reflection on each of them.
  - <img width="1811" height="566" alt="image" src="https://github.com/user-attachments/assets/512ae7c0-73bd-4d84-aecc-c6042558543a" />
  
 ### Reflection
- - **Situation:** The documetation for the Workplace Etiguette was provided to us via Blackboard.
+ - **Situation:** The documetation for the Workplace Etiquette was provided to us via Blackboard.
  - **Task:** I was tasked with reading throuhg the documentation for Workplace Etiquette and complete the quiz, the purpose of workplace etiquette is to
    teach workers how to act in situations and to remain professional at all times.
  - **Action:** I read through the documentation , to ensure I understood the purpose of Workplace Etiquette and to be able to complete the quiz.
