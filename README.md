@@ -23,3 +23,23 @@ and my reflection on each of them.
  - Evidence
  - Reflection
 
+## Business Communication
+### Evidence 
+### Reflection
+
+## Interview Skills
+### Evidence 
+### Reflection
+
+## Mock Interview
+### Evidence 
+### Reflection
+
+## Professional Networking
+### Evidence 
+### Reflection
+
+## Workplace Etiquette
+### Evidence 
+### Reflection
+
