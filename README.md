@@ -25,7 +25,7 @@ and my reflection on each of them.
 
 ## Business Communication
 ### Evidence 
- - For the Business Communications we where tasked with reading through documetation provided to us. After reading through the documentation
+ - For the Business Communications we where tasked with reading through documentation provided to us. After reading through the documentation
    we where required to write a quiz surrounding the documentation.
  - <img width="1819" height="564" alt="image" src="https://github.com/user-attachments/assets/ba1d7afb-00ee-4e9b-b9c2-f6863ef86d38" />
 
@@ -38,7 +38,7 @@ and my reflection on each of them.
 
 ## Interview Skills
 ### Evidence 
- -  For the Interview Skills we where tasked with reading through documetation provided to us. After reading through the documentation
+ -  For the Interview Skills we where tasked with reading through documentation provided to us. After reading through the documentation
    we where required to write a quiz surrounding the documentation.
  - <img width="1818" height="586" alt="image" src="https://github.com/user-attachments/assets/20b25a9c-02a7-4ab2-abf9-17829aed212e" />
 
@@ -62,7 +62,7 @@ and my reflection on each of them.
 
 ## Professional Networking
 ### Evidence 
- -  For the Professional Networking we where tasked with reading through documetation provided to us. After reading through the documentation
+ -  For the Professional Networking we where tasked with reading through documentation provided to us. After reading through the documentation
     we where required to write a quiz surrounding the documentation.
  - <img width="1818" height="495" alt="image" src="https://github.com/user-attachments/assets/6a278118-5230-43d8-b0f2-f5fac1038aaa" />
 
@@ -76,7 +76,7 @@ and my reflection on each of them.
 
 ## Workplace Etiquette
 ### Evidence 
- - For the Workplace Etiquette we where tasked with reading through documetation provided to us. After reading through the documentation
+ - For the Workplace Etiquette we where tasked with reading through documentation provided to us. After reading through the documentation
    we where required to write a quiz surrounding the documentation.
  - <img width="1811" height="566" alt="image" src="https://github.com/user-attachments/assets/512ae7c0-73bd-4d84-aecc-c6042558543a" />
  
