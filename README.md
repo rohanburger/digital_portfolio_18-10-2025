@@ -63,22 +63,28 @@ and my reflection on each of them.
 ## Professional Networking
 ### Evidence 
  -  For the Professional Networking we where tasked with reading through documetation provided to us. After reading through the documentation
-    we where required to write a quiz surrounding the documentation
+    we where required to write a quiz surrounding the documentation.
+ - <img width="1818" height="495" alt="image" src="https://github.com/user-attachments/assets/6a278118-5230-43d8-b0f2-f5fac1038aaa" />
+
 ### Reflection
- - **Situation**
- - **Task**
- - **Action**
- - **Result**
+ - **Situation:** The documentation for the professional networking was provided to us via Blackboard.
+ - **Task: **  I was tasked with reading though the documentation for Professional Networking and complete the quiz , the purpose of professional networking
+   was to teach us how to build a professional relationship with other professionals. 
+ - **Action:** I read through the documentation , to ensure I understood the purpose of Professional Networking and to be able to complete the quiz.
+ - **Result:** The results of the professsional networking quiz was 100%.
 
 
 ## Workplace Etiquette
 ### Evidence 
  - For the Workplace Etiquette we where tasked with reading through documetation provided to us. After reading through the documentation
-   we where required to write a quiz surrounding the documentation
+   we where required to write a quiz surrounding the documentation.
+ - <img width="1811" height="566" alt="image" src="https://github.com/user-attachments/assets/512ae7c0-73bd-4d84-aecc-c6042558543a" />
+ 
 ### Reflection
- - **Situation**
- - **Task**
- - **Action**
- - **Result**
+ - **Situation:** The documetation for the Workplace Etiguette was provided to us via Blackboard.
+ - **Task:** I was tasked with reading throuhg the documentation for Workplace Etiquette and complete the quiz, the purpose of workplace etiquette is to
+   teach workers how to act in situations and to remain professional at all times.
+ - **Action:** I read through the documentation , to ensure I understood the purpose of Workplace Etiquette and to be able to complete the quiz.
+ - **Result:** The results of the Workplace Etiquette quiz was 100%.
 
 
