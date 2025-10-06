@@ -25,7 +25,16 @@ and my reflection on each of them.
 
 ## Business Communication
 ### Evidence 
+ - For the Business Communications we where tasked with reading through documetation provided to us. After reading through the documentation
+   we where required to write a quiz surrounding the documentation.
+ - <img width="1819" height="564" alt="image" src="https://github.com/user-attachments/assets/ba1d7afb-00ee-4e9b-b9c2-f6863ef86d38" />
+
 ### Reflection
+- **Situation:** The documentation for business communication was provided to us via Blackboard.
+- **Task:** I was tasked with reading the documentation for business communication and complete the quiz , the purpose of business communciation is to teach us how
+  to properly communicate within a business setting.
+- **Action:** I read through the documentation , to ensure i undestood the purpose of business communication and to be able to complete the quiz.
+- **Result:** The result of the business communication quiz was 100%.
 
 ## Interview Skills
 ### Evidence 
