@@ -51,13 +51,30 @@ and my reflection on each of them.
    
 ## Mock Interview
 ### Evidence 
+ - For the Mock interview we had to do a online mock interview , where we were provided a set of questions that we had to record ourself answering.
+ - https://github.com/rohanburger/Mock-interview
+
 ### Reflection
+ - **Situation** The questions were provided to us via blackboard.
+ - **Task** I was tasked to record myself asnwering the provided questions , to similate a interview environment.
+ - **Action** I recorded myself reading the question , then proceeding to answer it.
+ - **Result** The video was recorded an uploaded onto GitHub , no marks have been received.
 
 ## Professional Networking
 ### Evidence 
 ### Reflection
+ - **Situation**
+ - **Task**
+ - **Action**
+ - **Result**
+
 
 ## Workplace Etiquette
 ### Evidence 
 ### Reflection
+ - **Situation**
+ - **Task**
+ - **Action**
+ - **Result**
+
 
