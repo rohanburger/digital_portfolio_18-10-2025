@@ -38,8 +38,17 @@ and my reflection on each of them.
 
 ## Interview Skills
 ### Evidence 
-### Reflection
+ -  For the Interview Skills we where tasked with reading through documetation provided to us. After reading through the documentation
+   we where required to write a quiz surrounding the documentation.
+ - <img width="1818" height="586" alt="image" src="https://github.com/user-attachments/assets/20b25a9c-02a7-4ab2-abf9-17829aed212e" />
 
+### Reflection
+ - **Situation:** The documentation for Interview skills was provided to us via Blackboard.
+ - **Task:** I was tasked with reading the documetation for interview skills and complete the quiz, the purpose of interview skills is teach us how
+   to properly approach a interview and what are things to do and not do in a interview.
+ - **Action:**  I read through the documentation , to ensure i undestood the purpose of Interview Skills and to be able to complete the quiz.
+ - **Result:** The result of the interview skills quiz was 100%.
+   
 ## Mock Interview
 ### Evidence 
 ### Reflection
