@@ -55,13 +55,15 @@ and my reflection on each of them.
  - https://github.com/rohanburger/Mock-interview
 
 ### Reflection
- - **Situation** The questions were provided to us via blackboard.
- - **Task** I was tasked to record myself asnwering the provided questions , to similate a interview environment.
- - **Action** I recorded myself reading the question , then proceeding to answer it.
- - **Result** The video was recorded an uploaded onto GitHub , no marks have been received.
+ - **Situation:** The questions were provided to us via blackboard.
+ - **Task:** I was tasked to record myself asnwering the provided questions , to similate a interview environment.
+ - **Action:** I recorded myself reading the question , then proceeding to answer it.
+ - **Result:** The video was recorded an uploaded onto GitHub , no marks have been received.
 
 ## Professional Networking
 ### Evidence 
+ -  For the Professional Networking we where tasked with reading through documetation provided to us. After reading through the documentation
+    we where required to write a quiz surrounding the documentation
 ### Reflection
  - **Situation**
  - **Task**
@@ -71,6 +73,8 @@ and my reflection on each of them.
 
 ## Workplace Etiquette
 ### Evidence 
+ - For the Workplace Etiquette we where tasked with reading through documetation provided to us. After reading through the documentation
+   we where required to write a quiz surrounding the documentation
 ### Reflection
  - **Situation**
  - **Task**
