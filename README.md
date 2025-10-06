@@ -3,23 +3,23 @@ Welcome to my digital portfolio. This document contains the work that was done f
 and my reflection on each of them.
 
 ## Table of Contents
-1.[Business Communication](#business_communication)
+1.[Business Communication](#business-communication)
  - Evidence
  - Reflection
 
-2.[Interview Skills](#interview_skills)
+2.[Interview Skills](#interview-skills)
  - Evidence
  - Reflection
 
-3.[Mock Interview](#mock_interview)
+3.[Mock Interview](#mock-interview)
  - Evidence
  - Reflection
 
-4.[Professional Networking](#professional_networking)
+4.[Professional Networking](#professional-networking)
  - Evidence
  - Reflection
 
-5.[Workplace Etiquette](#workplace_etiquette)
+5.[Workplace Etiquette](#workplace-etiquette)
  - Evidence
  - Reflection
 
